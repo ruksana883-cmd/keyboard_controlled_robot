@@ -15,4 +15,5 @@ and stops when it hits boundaries.
 - ❌ Esc: Exit  
 
 ## Run
+run robot_keyboard.py
 
